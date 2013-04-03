@@ -1,0 +1,5 @@
+{
+  "name": "node",
+  "run_list": [ "recipe[log]", "recipe[create_mysql_db]" ],
+  "create_mysql_db": { "db_name": "test" }
+}
