@@ -1,4 +1,4 @@
-name             "myface"
+name             "test"
 maintainer       "hto"
 maintainer_email "huy_to@intuit.com"
 license          "All rights reserved"
